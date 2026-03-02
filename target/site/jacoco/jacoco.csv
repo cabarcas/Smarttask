@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+smarttask,com.alkemy.educativo.smarttask.modelo,TareaNormal,6,11,0,0,2,4,1,3,1,3
+smarttask,com.alkemy.educativo.smarttask.modelo,TareaUrgente,6,11,0,0,2,4,1,3,1,3
+smarttask,com.alkemy.educativo.smarttask.modelo,Tarea,2,62,1,3,0,18,1,9,0,8
+smarttask,com.alkemy.educativo.smarttask.factory,TareaFactory,0,17,0,2,0,3,0,2,0,1
+smarttask,com.alkemy.educativo.smarttask.enums,TipoTarea,0,24,0,0,0,5,0,1,0,1
+smarttask,com.alkemy.educativo.smarttask.enums,EstadoTarea,0,45,0,0,0,11,0,4,0,4
+smarttask,com.alkemy.educativo.smarttask.gestor,GestorDeTareas,0,115,2,16,0,25,2,15,0,8

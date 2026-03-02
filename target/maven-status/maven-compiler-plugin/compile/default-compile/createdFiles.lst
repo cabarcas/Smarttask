@@ -1,0 +1,10 @@
+com\alkemy\educativo\smarttask\enums\EstadoTarea.class
+com\alkemy\educativo\smarttask\App.class
+com\alkemy\educativo\smarttask\gestor\GestorDeTareas.class
+com\alkemy\educativo\smarttask\interfaces\Accionable.class
+com\alkemy\educativo\smarttask\modelo\Tarea.class
+com\alkemy\educativo\smarttask\modelo\TareaNormal.class
+com\alkemy\educativo\smarttask\enums\TipoTarea.class
+com\alkemy\educativo\smarttask\modelo\TareaUrgente.class
+com\alkemy\educativo\smarttask\ui\MenuConsola.class
+com\alkemy\educativo\smarttask\factory\TareaFactory.class
