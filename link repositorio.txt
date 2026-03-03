@@ -3,5 +3,3 @@ https://github.com/cabarcas/Smarttask
 https://cabarcas.github.io/Smarttask/javadoc/
 
 https://cabarcas.github.io/Smarttask/jacoco/
-
-git add "link repositorio.txt"
