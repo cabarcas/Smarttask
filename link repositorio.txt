@@ -1,0 +1,7 @@
+https://github.com/cabarcas/Smarttask
+
+https://cabarcas.github.io/Smarttask/javadoc/
+
+https://cabarcas.github.io/Smarttask/jacoco/
+
+https://cabarcas.github.io/Smarttask/test-reports/
